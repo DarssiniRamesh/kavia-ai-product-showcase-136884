@@ -1,1 +1,3 @@
-# kavia-ai-product-showcase-136884
+# Project Repository
+
+This is the initial README file for the project.
